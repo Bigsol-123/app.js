@@ -13,3 +13,6 @@ client.on("qr", (qr) => {
 client.on("ready", () => {
   console.log("Client is ready!");
 });
+$ node app 
+or 
+$ node app.js
