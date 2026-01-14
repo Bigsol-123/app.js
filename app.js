@@ -15,4 +15,12 @@ client.on("ready", () => {
 });
 $ node app 
 or 
-$ node app.js
+$ node app.js 
+$ npm install whatsapp-web.js
+or
+$ yarn add  whatsapp-web.js
+$ npm install qr-code-terminal
+
+or
+
+$ yarn add qr-code-terminal
